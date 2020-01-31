@@ -1,0 +1,4 @@
+# Project exclude paths
+/flink-streaming-exercise/target/target/
+aim3-flinkstreaming.iml
+resources/
