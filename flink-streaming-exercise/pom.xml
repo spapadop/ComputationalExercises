@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>8</java.version> <!-- Change it to 8 if you don't have Java 11 installed. -->
-        <flink.version>1.9.1</flink.version>
+        <flink.version>1.9.2</flink.version>
         <junit.version>4.13.1</junit.version>
         <commons.version>3.8.1</commons.version>
         <hamcrest.version>2.2</hamcrest.version>
